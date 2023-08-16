@@ -20,7 +20,7 @@ Finally select an option and input the information required whenever prompted to
 
 ## Link
 
-Link to video: 
+Link to video: [Video](https://youtu.be/NbnAzJ6L_mM) 
 
 ## Credits
 
