@@ -1,0 +1,13 @@
+{
+    "name": "employee-tracker",
+    "version": "1.0.0",
+    "main": "server.js",
+    "license": "MIT",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "mysql2": "^2.2.5",
+        "inquirer": "^8.2.4"
+    }
+}
